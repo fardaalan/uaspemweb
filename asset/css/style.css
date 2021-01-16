@@ -1,0 +1,16 @@
+.bg-satu {
+    background-color: #e3f2fd;
+}
+
+.bg-dua {
+    background-color: #75c1f9;
+}
+
+.btn-a:hover {
+    text-decoration: none;
+}
+
+.logo {
+    font-family: Impact;
+    letter-spacing: 5px;
+}
